@@ -1,0 +1,4 @@
+Este repositorio contiene los dos pipeline utilizados para el procesamiento del dataset:
+
+-Pipeline Ejemplo: es el pipeline base proporcionado por la cátedra.
+-Pipeline CabreraBellomo-Piazza-Vargas: es el pipeline diseñado por el grupo.
