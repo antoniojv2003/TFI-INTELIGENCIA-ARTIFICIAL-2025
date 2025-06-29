@@ -25,3 +25,6 @@ THRESHOLDS = {
     'Edema':            0.502,
     'Pleural Effusion': 0.327
 }
+
+# Fueron determinados por la funcion implementada en el notebook
+# ver funcion en CheXpert_Classifier.ipynb
